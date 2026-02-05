@@ -29,9 +29,9 @@ Displays the following ID3v2 frames:
 
 ### 3.Edit MP3 Tags
 Allows modification of individual tags using command-line options while preserving:
--Frame structure
--Frame alignment
--Remaining metadata and audio data
+1. Frame structure
+2. Frame alignment
+3. Remaining metadata and audio data
 
 ## snapshots
 <img width="877" height="187" alt="image" src="https://github.com/user-attachments/assets/5f7ca36a-95cf-4754-9410-bb20fdde8ed4" />
